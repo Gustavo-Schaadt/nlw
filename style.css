@@ -18,7 +18,7 @@ img {
 :root {
   --header-height: 4.5rem;
   /*color*/
-  --hue: 920;
+  --hue: 360;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 60% 48%);
   --base-color-second: hsl(var(--hue) 65% 88%);
@@ -157,8 +157,9 @@ main {
   color: var(--text-color);
 }
 
-#home .text h1 {
+#home .text h2 {
   margin-bottom: 1rem;
+  color: var(--title-color);
 }
 
 #home .text p {
