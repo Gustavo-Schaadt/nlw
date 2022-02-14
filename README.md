@@ -1,8 +1,6 @@
 #Pagina web em HTML5 e CSS3
 
-[interface](led vermelho 2.jpg)
-
-Comecei recentemente acompanhar a escola de programação Rockseat, gostei muito da didática deles e da plataforma com diversos ensinamentos gratuitos, ainda não acessei a aba do curso "Discover" fui de cara em um aula da "NLW together" era uma aula de HTML e CSS bem para iniciantes assim como eu, desenvolvemos a primeira section de um site para mobile de um salão de beleza, foi um dos meus primeiros contato afundo com CSS e HTML, decobri varios comandos que gostei muio como este do CSS
+Comecei recentemente acompanhar a escola de programação Rockseat, gostei muito da didática deles e da plataforma com diversos ensinamentos gratuitos, ainda não acessei a aba do curso "Discover" fui de cara em um aula da "NLW together" era uma aula de HTML e CSS bem para iniciantes assim como eu, desenvolvemos a primeira section de um site para mobile de um salão de beleza, reformulei ele para ser um site próprio meu, foi um dos meus primeiros contato afundo com CSS e HTML, decobri varios comandos que gostei muio como este do CSS
 
 ```css
 /*=====VARIABLES==============================*/
